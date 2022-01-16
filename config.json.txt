@@ -1,0 +1,5 @@
+{
+	"ip":"radwanos12345.aternos.me",
+	"port": "57916",
+	"name": "radwanos12345"
+}
